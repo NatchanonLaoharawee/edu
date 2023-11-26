@@ -1,11 +1,8 @@
 lemon-dataset/
-wandb/
 models/
 artifact/
 artifacts/
 model-dev-course/lesson1/artifacts/
-wandb101/cifar_net.pth
-wandb101/data/
 *.csv
 *.tar
 *.png
